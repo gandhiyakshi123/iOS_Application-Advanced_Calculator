@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD6662DB-4E51-4464-B26A-C84BABC99899"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22D68F0A-802C-47C6-8117-071D47850CCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CALCUALTOR/WeightViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "WeightViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "22D68F0A-802C-47C6-8117-071D47850CCB - 7686dda0e68a9a44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CALCUALTOR.WeightViewController.selectToBtn.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CALCUALTOR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200482015/Downloads/latest/CALCUALTOR/WeightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "22D68F0A-802C-47C6-8117-071D47850CCB - 3882c0f2d4f4ca70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CALCUALTOR.WeightViewController.selectToBtn.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CALCUALTOR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200482015/Downloads/latest/CALCUALTOR/WeightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "22D68F0A-802C-47C6-8117-071D47850CCB - aed64665c4b5f641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CALCUALTOR.WeightViewController.selectToBtn.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CALCUALTOR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200482015/Downloads/latest/CALCUALTOR/WeightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "22D68F0A-802C-47C6-8117-071D47850CCB - 8286edfc5474b251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CALCUALTOR.WeightViewController.selectToBtn.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CALCUALTOR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200482015/Downloads/latest/CALCUALTOR/WeightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "22D68F0A-802C-47C6-8117-071D47850CCB - 698daebe05ebe56c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CALCUALTOR.WeightViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CALCUALTOR.WeightViewController"
+                  moduleName = "CALCUALTOR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200482015/Downloads/latest/CALCUALTOR/WeightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "275">
+               </Location>
+               <Location
+                  uuid = "22D68F0A-802C-47C6-8117-071D47850CCB - c9430e9072e6f963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CALCUALTOR.WeightViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CALCUALTOR.WeightViewController&gt;"
+                  moduleName = "CALCUALTOR"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/200482015/Downloads/latest/CALCUALTOR/WeightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00A6D666-1D15-4598-AF2C-D09FB08048CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CALCUALTOR/WeightViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "selectFromPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB7F9152-8614-4EE7-B823-F74D057267E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CALCUALTOR/TimeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
